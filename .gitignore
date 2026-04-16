@@ -1,0 +1,20 @@
+# Base ignores
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Virtual Environments boundaries limits
+venv/
+env/
+
+# Datasets and structural topologies
+data/raw/
+data/processed/
+*.csv
+*.h5
+*.inp
+
+# Avoid uploading the explicit specific diagrams requested identically
+cas-dc-template.tex
+diagram.txt
