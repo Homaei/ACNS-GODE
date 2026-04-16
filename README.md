@@ -16,7 +16,7 @@ As demonstrated on the L-TOWN (BattLeDIM) and C-Town benchmarks, this architectu
 
 ### 1. Empirical Miscoverage and Stability
 <p align="center">
-  <img src="./fig2_coverage.png" width="700" alt="Fig 2 Coverage">
+  <img src="./Fig2_coverage.png" width="700" alt="Fig 2 Coverage">
 </p>
 <p align="center">
   <em>Fig. 2: Empirical miscoverage rate of five randomly selected nodes over (a) the 10-week L-TOWN test period and (b) the 52-week C-Town simulation. The adaptive conformal inference module successfully maintains long-run convergence to the target α_target = 0.05 across seasonal drifts.</em>
